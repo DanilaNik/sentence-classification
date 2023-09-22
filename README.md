@@ -5,5 +5,3 @@ This Jupyter Lab files form pipeline for creating sentence emotional classificat
 Neural network model in this project uses bagging ensemble to raise accuracy for classification.
 
 Model achitecture is built with keras and sklearn.
-
-Still in progress
